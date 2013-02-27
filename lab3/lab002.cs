@@ -113,4 +113,4 @@ class Program
         Console.Write("\nПродолжительность работы программы: " + (t2 - t1) / 1000.0);
         Console.ReadKey(true);
     }
-}j
+}
